@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ui-visual-tests
 
 Visual regression tests for the Elements Energy web app, built with Playwright.
@@ -167,3 +168,8 @@ docker run --rm --env-file .env -v "${PWD}:/work" -v /work/node_modules -w /work
 
 The extra `-v /work/node_modules` keeps the container's Linux `node_modules` from being replaced by your host's copy.
 Keep the image tag in `Dockerfile` equal to the installed `@playwright/test` version.
+=======
+# Elements FlexHub
+
+Live page: https://harshethaee.github.io/test_repo/
+>>>>>>> 073c6aa34210b8120577fec74631592ad8289361
