@@ -1,0 +1,204 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: visual\layout.spec.ts >> layout: power-monitoring-peak (/power-monitoring?tab=peak)
+- Location: tests\visual\layout.spec.ts:26:3
+
+# Error details
+
+```
+Error: Tap target smaller than 24×24px (WCAG 2.5.8):
+  #1 input "Search page…": 70x18px
+  #2 span "Dismiss greeting": 20x20px
+  How to fix: Increase padding, or set min-width / min-height: 24px (44px recommended) on the button or link. The icon can stay small; the clickable area should grow.
+  (see the "layout-issues.png" attachment: the numbers match)
+
+expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 2
+```
+
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - button "Open menu" [ref=e4] [cursor=pointer]
+      - complementary [ref=e6]:
+        - button "Close menu" [ref=e7] [cursor=pointer]
+        - generic [ref=e13]:
+          - generic [ref=e14]: Elements Energy
+          - generic [ref=e15]: Elements Intelligence
+        - navigation [ref=e16]:
+          - button "Facility Overview" [ref=e17] [cursor=pointer]
+          - button "Power Monitoring" [ref=e25] [cursor=pointer]
+          - button "Utilities" [ref=e30] [cursor=pointer]
+          - button "Zone/Equipment Analytics" [ref=e36] [cursor=pointer]
+          - button "Shift-wise" [ref=e41] [cursor=pointer]
+          - button "AI Predictions & Optimization" [ref=e47] [cursor=pointer]
+          - button "Alerts & Notifications 8" [ref=e52] [cursor=pointer]:
+            - generic [ref=e57]: Alerts & Notifications
+            - generic [ref=e58]: "8"
+          - button "Reports" [ref=e59] [cursor=pointer]
+      - generic [ref=e65]:
+        - banner [ref=e66]:
+          - generic: Power Monitoring
+          - generic [ref=e67]:
+            - textbox "Search page…" [ref=e72]
+            - button "12 Nov 2026" [ref=e74] [cursor=pointer]
+            - button "8" [ref=e78] [cursor=pointer]
+            - button "YM" [ref=e84] [cursor=pointer]
+        - main [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - button "Electrical Systems" [ref=e89] [cursor=pointer]
+              - button "Harmonics" [ref=e90] [cursor=pointer]
+              - button "Peak Demand" [ref=e91] [cursor=pointer]
+              - button "Diagrams & SLD" [ref=e92] [cursor=pointer]
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - generic [ref=e95]:
+                  - paragraph [ref=e101]: Peak Demand
+                  - paragraph [ref=e102]: "1118.0"
+                  - paragraph [ref=e103]: kVA, selected range
+                - generic [ref=e104]:
+                  - paragraph [ref=e110]: Contracted Demand
+                  - paragraph [ref=e111]: "1475"
+                  - paragraph [ref=e112]: kVA (HT_Room)
+                - generic [ref=e113]:
+                  - paragraph [ref=e120]: Demand Utilization
+                  - paragraph [ref=e121]: 75.8%
+                  - paragraph [ref=e122]: of contracted demand
+                - generic [ref=e123]:
+                  - paragraph [ref=e128]: Peak Events
+                  - paragraph [ref=e129]: "0"
+                  - paragraph [ref=e130]: ">80% of contracted, selected range"
+              - generic [ref=e131]:
+                - generic [ref=e132]:
+                  - paragraph [ref=e136]: Peak Demand
+                  - generic [ref=e137]: Updated 12 Nov, 04:31:00 pm
+                - img [ref=e142]:
+                  - generic [ref=e147]:
+                    - generic [ref=e148]: 00:00
+                    - generic [ref=e150]: 01:00
+                    - generic [ref=e152]: 02:00
+                    - generic [ref=e154]: 03:00
+                    - generic [ref=e156]: 04:00
+                    - generic [ref=e158]: 05:00
+                    - generic [ref=e160]: 06:00
+                    - generic [ref=e162]: 07:00
+                    - generic [ref=e164]: 08:00
+                    - generic [ref=e166]: 09:00
+                    - generic [ref=e168]: 10:00
+                    - generic [ref=e170]: 11:00
+                    - generic [ref=e172]: 12:00
+                    - generic [ref=e174]: 13:00
+                    - generic [ref=e176]: 14:00
+                    - generic [ref=e178]: 15:00
+                    - generic [ref=e180]: 16:00
+                  - generic [ref=e182]:
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: "0"
+                      - generic [ref=e186]: "300"
+                      - generic [ref=e188]: "600"
+                      - generic [ref=e190]: "900"
+                      - generic [ref=e192]: "1200"
+                    - generic [ref=e194]: kVA
+                  - generic [ref=e195]: 80% of contracted – 1180 kVA
+              - generic [ref=e217]:
+                - paragraph [ref=e222]: Peak Event Log
+                - paragraph [ref=e223]: No events above threshold in this range.
+    - status [ref=e224]:
+      - button "Open Energy Analytics Assistant" [ref=e225] [cursor=pointer]:
+        - generic [ref=e226]:
+          - generic [ref=e227]: Hi, I'm your Energy Analytics Assistant
+          - generic [ref=e228]: Tap me when you want to analyze something.
+        - button "Dismiss greeting" [ref=e229]
+    - button "Open assistant" [ref=e234] [cursor=pointer]
+  - generic [aria-hidden] [ref=e237]: "0"
+```
+
+# Test source
+
+```ts
+  1  | import { test, expect } from '@playwright/test';
+  2  | import { pages } from '../support/pages';
+  3  | import { openPage } from '../support/visual';
+  4  | import {
+  5  |   attachLayoutReport,
+  6  |   checks,
+  7  |   clippedCards,
+  8  |   describeIssues,
+  9  |   formatIssues,
+  10 |   headerOverlaps,
+  11 |   horizontalOverflow,
+  12 |   numberIssues,
+  13 |   offscreenElements,
+  14 |   smallTapTargets,
+  15 |   type IssueKind,
+  16 |   type LayoutIssue,
+  17 | } from '../support/layout';
+  18 | 
+  19 | /**
+  20 |  * Responsive layout checks, run at every screen size. Soft assertions report every problem on a page.
+  21 |  * Each test attaches a screenshot with the offending elements outlined and numbered
+  22 |  * (layout-issues.png), plus a numbered list with how to fix them (layout-issues.txt). Both show
+  23 |  * in the Playwright HTML report, and the overview grid is in responsive-report/index.html.
+  24 |  */
+  25 | for (const def of pages) {
+  26 |   test(`layout: ${def.name} (${def.path})`, async ({ page }, testInfo) => {
+  27 |     await openPage(page, def);
+  28 | 
+  29 |     const found: [IssueKind, LayoutIssue[]][] = [
+  30 |       ['overflow', await horizontalOverflow(page)],
+  31 |       ['offscreen', await offscreenElements(page)],
+  32 |       ['clipped', await clippedCards(page)],
+  33 |       ['overlap', await headerOverlaps(page)],
+  34 |     ];
+  35 |     if (testInfo.project.use.hasTouch) {
+  36 |       const { tooSmall, belowRecommended } = await smallTapTargets(page);
+  37 |       found.push(['tap-too-small', tooSmall], ['tap-small', belowRecommended]);
+  38 |       if (belowRecommended.length)
+  39 |         testInfo.annotations.push({ type: 'tap targets below recommended 44x44px', description: formatIssues(belowRecommended) });
+  40 |     }
+  41 | 
+  42 |     const issues = numberIssues(found);
+  43 |     await attachLayoutReport(page, testInfo, issues);
+  44 | 
+  45 |     for (const [kind, list] of found)
+> 46 |       if (checks[kind].severity === 'error') expect.soft(list.length, describeIssues(kind, issues)).toBe(0);
+     |                                                                                                     ^ Error: Tap target smaller than 24×24px (WCAG 2.5.8):
+  47 |   });
+  48 | }
+  49 | 
+  50 | /** Phones: the sidebar must collapse behind a menu button that opens and closes it. */
+  51 | test('layout: mobile navigation menu', async ({ page }, testInfo) => {
+  52 |   test.skip(!testInfo.project.use.isMobile || (testInfo.project.use.viewport?.width ?? 1440) >= 768, 'only on phones');
+  53 |   await openPage(page, pages.find((p) => p.name === 'facility')!);
+  54 | 
+  55 |   const sidebar = page.locator('aside').first();
+  56 |   const inView = async () => {
+  57 |     const box = await sidebar.boundingBox();
+  58 |     return !!box && box.x + box.width > 1 && box.x < (page.viewportSize()?.width ?? 0);
+  59 |   };
+  60 | 
+  61 |   expect(await inView(), 'sidebar should be hidden on phones').toBe(false);
+  62 |   const open = page.getByRole('button', { name: /open menu/i });
+  63 |   await expect(open, 'a menu button should be visible').toBeVisible();
+  64 | 
+  65 |   await open.click();
+  66 |   await expect.poll(inView, { message: 'menu button should open the sidebar' }).toBe(true);
+  67 |   await expect(sidebar.getByText('Power Monitoring')).toBeVisible();
+  68 | 
+  69 |   await page.getByRole('button', { name: /close menu/i }).click();
+  70 |   await expect.poll(inView, { message: 'close button should hide the sidebar again' }).toBe(false);
+  71 | });
+  72 | 
+```
