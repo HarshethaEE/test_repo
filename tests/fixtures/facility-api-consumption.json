@@ -1,0 +1,9 @@
+{
+  "unit": "kWh",
+  "date": "2026-11-12",
+  "zone": "Compressor",
+  "granularity": "day",
+  "totalConsumption": 3355.7,
+  "meterCount": 0,
+  "breakdown": []
+}

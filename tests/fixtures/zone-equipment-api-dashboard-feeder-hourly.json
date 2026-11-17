@@ -1,0 +1,924 @@
+{
+  "start": "2026-11-12T00:00:00",
+  "end": "2026-11-12T23:59:59",
+  "unit": "kWh",
+  "hourlyIsAveraged": false,
+  "hourlyAveragedOverDays": 1,
+  "feeders": [
+    {
+      "zone": "Lighting",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 23.6,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 18.3,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 11.1,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 25,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 18.1,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 18.2,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 12.1,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 21.1,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 42.7,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 45.2,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 40.6,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 54.2,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 45.2,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 41.3,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 51.5,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 48.6,
+          "meterCount": 11
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 14.6,
+          "meterCount": 11
+        }
+      ]
+    },
+    {
+      "zone": "Molding",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 88.4,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 107,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 65.2,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 122.4,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 78.5,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 119.8,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 112.8,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 150.2,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 126.6,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 152,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 131.5,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 139.3,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 131.7,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 89.7,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 148.4,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 178.4,
+          "meterCount": 15
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 47.1,
+          "meterCount": 15
+        }
+      ]
+    },
+    {
+      "zone": "Dust_Collector",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 30.6,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 0,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 4.3,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 70.9,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 82,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 66.3,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 115.7,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 71.3,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 62.8,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 83.3,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 77,
+          "meterCount": 5
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 22.5,
+          "meterCount": 5
+        }
+      ]
+    },
+    {
+      "zone": "Compressor",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 114,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 78.5,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 50.1,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 110.7,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 78.6,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 80.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 67.8,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 90.6,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 291.7,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 381,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 293.1,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 374.3,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 309.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 240.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 442.1,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 346.3,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 110.6,
+          "meterCount": 4
+        }
+      ]
+    },
+    {
+      "zone": "Paintshop",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 83.5,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 53.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 35.4,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 75.3,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 55.4,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 55.7,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 47.8,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 65,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 150.7,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 161.7,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 138.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 187,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 162.5,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 163.8,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 157.2,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 159.9,
+          "meterCount": 4
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 42.9,
+          "meterCount": 4
+        }
+      ]
+    },
+    {
+      "zone": "Others",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 0.7,
+          "meterCount": 1
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 0.9,
+          "meterCount": 1
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 0.9,
+          "meterCount": 1
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 0.9,
+          "meterCount": 1
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 1,
+          "meterCount": 1
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 0.2,
+          "meterCount": 1
+        }
+      ]
+    },
+    {
+      "zone": "Airconditioning",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 83.5,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 131.5,
+          "meterCount": 28
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 82.2,
+          "meterCount": 27
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 178.8,
+          "meterCount": 28
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 120.6,
+          "meterCount": 27
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 126.7,
+          "meterCount": 28
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 116.7,
+          "meterCount": 28
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 164.2,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 151.5,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 152.2,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 155.9,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 179.6,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 163.6,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 131.8,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 179.2,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 185.4,
+          "meterCount": 34
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 53.9,
+          "meterCount": 34
+        }
+      ]
+    },
+    {
+      "zone": "Production_Power",
+      "hourly": [
+        {
+          "timestamp": "2026-11-12T00:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "00:00",
+          "totalConsumption": 80.4,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T01:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "01:00",
+          "totalConsumption": 90.3,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T02:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "02:00",
+          "totalConsumption": 54.2,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T03:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "03:00",
+          "totalConsumption": 114.2,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T04:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "04:00",
+          "totalConsumption": 73.5,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T05:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "05:00",
+          "totalConsumption": 81.1,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T06:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "06:00",
+          "totalConsumption": 74.5,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T07:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "07:00",
+          "totalConsumption": 99,
+          "meterCount": 35
+        },
+        {
+          "timestamp": "2026-11-12T08:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "08:00",
+          "totalConsumption": 180,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T09:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "09:00",
+          "totalConsumption": 218.3,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T10:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "10:00",
+          "totalConsumption": 184.3,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T11:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "11:00",
+          "totalConsumption": 227.1,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T12:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "12:00",
+          "totalConsumption": 167.3,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T13:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "13:00",
+          "totalConsumption": 183.5,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T14:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "14:00",
+          "totalConsumption": 220.3,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T15:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "15:00",
+          "totalConsumption": 232.4,
+          "meterCount": 38
+        },
+        {
+          "timestamp": "2026-11-12T16:00:00+05:30",
+          "date": "2026-11-12",
+          "hour": "16:00",
+          "totalConsumption": 66,
+          "meterCount": 38
+        }
+      ]
+    }
+  ]
+}

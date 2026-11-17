@@ -1,0 +1,65 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-component-id-map-json.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-equipment-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-me.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-alerts-active.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-profiles.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/feeder-daily?month=2026-11&zones=all&unit=kWh": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/feeder-daily?month=2026-11&zones=all&unit=kWh",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-dashboard-feeder-daily.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/feeder-yearly?year=2026&zones=all&unit=kWh": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/feeder-yearly?year=2026&zones=all&unit=kWh",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-dashboard-feeder-yearly.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/feeder-hourly?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&zones=all&unit=kWh": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/feeder-hourly?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&zones=all&unit=kWh",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-equipment-api-dashboard-feeder-hourly.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#2caae92517": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-equipment-post-api-tracking-events.json"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "username": "redacted-username",
+      "profile_id": "8b01660b-18c7-4304-9e91-f74ad291761a",
+      "profile_name": "Immanuvel",
+      "profile_email": "user@example.com"
+    },
+    {
+      "username": "redacted-username",
+      "profile_id": "c5b23903-0ef1-4635-a13b-132ef35710bd",
+      "profile_name": "Yamaha 1",
+      "profile_email": ""
+    }
+  ]
+}

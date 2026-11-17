@@ -1,0 +1,19 @@
+{
+  "month": "2026-11",
+  "status": "OFF",
+  "lastStoppedAt": "2026-10-22T00:24:00+05:30",
+  "runtimeMinutesThisMonth": 0,
+  "runtimeMinutesLastMonth": 35,
+  "runtimeChangePct": -100,
+  "energyKwhThisMonth": 0,
+  "energyKwhLastMonth": 399.6,
+  "energyChangePct": -100,
+  "startsThisMonth": 0,
+  "stopsThisMonth": 0,
+  "lastRun": {
+    "startedAt": "2026-10-22T00:08:00+05:30",
+    "stoppedAt": "2026-10-22T00:24:00+05:30",
+    "runtimeMinutes": 3,
+    "energyKwh": 6.7
+  }
+}

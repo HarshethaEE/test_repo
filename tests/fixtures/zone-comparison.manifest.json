@@ -1,0 +1,58 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-component-id-map-json.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-api-me.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-comparison-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-api-dashboard-cost-centers.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-api-dashboard-overview.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-api-profiles.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-comparison-api-alerts-active.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#41ed197eca": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-comparison-post-api-tracking-events.json"
+  }
+}

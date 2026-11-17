@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-12",
+  "capacityKwp": 100,
+  "generationThresholdKw": 1,
+  "today": {
+    "firstGenerationTime": "2026-11-12T06:25:00+05:30",
+    "lastGenerationTime": "2026-11-12T16:15:00+05:30",
+    "generationDurationMinutes": 590,
+    "hoursAboveThreshold": {
+      "0.8": 0,
+      "0.5": 1.1,
+      "0.3": 2
+    },
+    "peakPowerKw": 71.3,
+    "avgPowerKw": 41.5
+  },
+  "yesterday": {
+    "firstGenerationTime": "2026-11-11T06:21:00+05:30",
+    "lastGenerationTime": "2026-11-11T17:08:00+05:30",
+    "generationDurationMinutes": 647,
+    "hoursAboveThreshold": {
+      "0.8": 0,
+      "0.5": 0.5,
+      "0.3": 1.8
+    },
+    "peakPowerKw": 60.3,
+    "avgPowerKw": 33.6
+  }
+}

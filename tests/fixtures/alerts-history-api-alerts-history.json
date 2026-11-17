@@ -1,0 +1,2329 @@
+{
+  "days": 30,
+  "daily": [
+    {
+      "date": "2026-10-14",
+      "critical": 2,
+      "warning": 7,
+      "info": 6
+    },
+    {
+      "date": "2026-10-15",
+      "critical": 2,
+      "warning": 7,
+      "info": 2
+    },
+    {
+      "date": "2026-10-16",
+      "critical": 2,
+      "warning": 7,
+      "info": 2
+    },
+    {
+      "date": "2026-10-17",
+      "critical": 1,
+      "warning": 11,
+      "info": 2
+    },
+    {
+      "date": "2026-10-18",
+      "critical": 1,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-10-19",
+      "critical": 1,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-10-20",
+      "critical": 1,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-10-21",
+      "critical": 1,
+      "warning": 7,
+      "info": 4
+    },
+    {
+      "date": "2026-10-22",
+      "critical": 1,
+      "warning": 6,
+      "info": 4
+    },
+    {
+      "date": "2026-10-23",
+      "critical": 2,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-10-24",
+      "critical": 1,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-10-25",
+      "critical": 1,
+      "warning": 9,
+      "info": 5
+    },
+    {
+      "date": "2026-10-26",
+      "critical": 2,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-10-27",
+      "critical": 1,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-10-28",
+      "critical": 2,
+      "warning": 8,
+      "info": 2
+    },
+    {
+      "date": "2026-10-29",
+      "critical": 1,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-10-30",
+      "critical": 2,
+      "warning": 4,
+      "info": 2
+    },
+    {
+      "date": "2026-10-31",
+      "critical": 2,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-11-01",
+      "critical": 1,
+      "warning": 9,
+      "info": 2
+    },
+    {
+      "date": "2026-11-02",
+      "critical": 2,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-11-03",
+      "critical": 1,
+      "warning": 7,
+      "info": 2
+    },
+    {
+      "date": "2026-11-04",
+      "critical": 1,
+      "warning": 7,
+      "info": 2
+    },
+    {
+      "date": "2026-11-05",
+      "critical": 1,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-11-06",
+      "critical": 1,
+      "warning": 7,
+      "info": 4
+    },
+    {
+      "date": "2026-11-07",
+      "critical": 1,
+      "warning": 7,
+      "info": 2
+    },
+    {
+      "date": "2026-11-08",
+      "critical": 1,
+      "warning": 4,
+      "info": 2
+    },
+    {
+      "date": "2026-11-09",
+      "critical": 1,
+      "warning": 5,
+      "info": 2
+    },
+    {
+      "date": "2026-11-10",
+      "critical": 0,
+      "warning": 9,
+      "info": 2
+    },
+    {
+      "date": "2026-11-11",
+      "critical": 1,
+      "warning": 6,
+      "info": 2
+    },
+    {
+      "date": "2026-11-12",
+      "critical": 1,
+      "warning": 8,
+      "info": 1
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-12",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:25 on 2026-11-12"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.58 on 2026-11-12 (below 0.80)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.64 on 2026-11-12 (below 0.80)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Others",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Others's average power factor was 0.74 on 2026-11-12 (below 0.80)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.0% on 2026-11-12 (above 8%)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.8% on 2026-11-12 (above 8%)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-11-12 (below 0.80)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "HT_Room",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "HT_Room's average current THD was 19.1% on 2026-11-12 (above 8%)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.79 on 2026-11-12 (below 0.80)"
+    },
+    {
+      "date": "2026-11-12",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.13 on 2026-11-12 (below 0.90)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:21 on 2026-11-11"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:28 on 2026-11-11 (ran 178 min)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.62 on 2026-11-11 (below 0.80)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.75 on 2026-11-11 (below 0.80)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.7% on 2026-11-11 (above 8%)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 18.4% on 2026-11-11 (above 8%)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.66 on 2026-11-11 (below 0.80)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.78 on 2026-11-11 (below 0.80)"
+    },
+    {
+      "date": "2026-11-11",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.10 on 2026-11-11 (below 0.90)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:32 on 2026-11-10"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:28 on 2026-11-10 (ran 188 min)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.39 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.66 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.6% on 2026-11-10 (above 8%)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 15.5% on 2026-11-10 (above 8%)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.67 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.78 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.75 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "Compressor",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Compressor's average power factor was 0.78 on 2026-11-10 (below 0.80)"
+    },
+    {
+      "date": "2026-11-10",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "warning",
+      "description": "The 11kV incomer's average power factor was 0.86 on 2026-11-10 (below 0.90)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:23 on 2026-11-09"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:18 on 2026-11-09 (ran 176 min)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.64 on 2026-11-09 (below 0.80)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 13.9% on 2026-11-09 (above 8%)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 42.0% on 2026-11-09 (above 8%)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.56 on 2026-11-09 (below 0.80)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.76 on 2026-11-09 (below 0.80)"
+    },
+    {
+      "date": "2026-11-09",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.43 on 2026-11-09 (below 0.90)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:57 on 2026-11-08"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:17 on 2026-11-08 (ran 163 min)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.54 on 2026-11-08 (below 0.80)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 14.7% on 2026-11-08 (above 8%)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 42.7% on 2026-11-08 (above 8%)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.59 on 2026-11-08 (below 0.80)"
+    },
+    {
+      "date": "2026-11-08",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.52 on 2026-11-08 (below 0.90)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:18 on 2026-11-07"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:24 on 2026-11-07 (ran 168 min)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.41 on 2026-11-07 (below 0.80)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.68 on 2026-11-07 (below 0.80)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 13.8% on 2026-11-07 (above 8%)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 28.2% on 2026-11-07 (above 8%)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-11-07 (below 0.80)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.77 on 2026-11-07 (below 0.80)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "Compressor",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Compressor's average power factor was 0.78 on 2026-11-07 (below 0.80)"
+    },
+    {
+      "date": "2026-11-07",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.62 on 2026-11-07 (below 0.90)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:38 on 2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 07:16 on 2026-11-06 (ran 13 min)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:22 on 2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:25 on 2026-11-06 (ran 142 min)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-11-06 (below 0.80)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.77 on 2026-11-06 (below 0.80)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.6% on 2026-11-06 (above 8%)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.6% on 2026-11-06 (above 8%)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-11-06 (below 0.80)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 87% of the 1475 kVA contracted demand on 2026-11-06"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.79 on 2026-11-06 (below 0.80)"
+    },
+    {
+      "date": "2026-11-06",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.37 on 2026-11-06 (below 0.90)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:25 on 2026-11-05"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:24 on 2026-11-05 (ran 163 min)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.58 on 2026-11-05 (below 0.80)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.76 on 2026-11-05 (below 0.80)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.5% on 2026-11-05 (above 8%)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.3% on 2026-11-05 (above 8%)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.68 on 2026-11-05 (below 0.80)"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 83% of the 1475 kVA contracted demand on 2026-11-05"
+    },
+    {
+      "date": "2026-11-05",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.30 on 2026-11-05 (below 0.90)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:29 on 2026-11-04"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:21 on 2026-11-04 (ran 167 min)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-11-04 (below 0.80)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.74 on 2026-11-04 (below 0.80)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.9% on 2026-11-04 (above 8%)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.2% on 2026-11-04 (above 8%)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.67 on 2026-11-04 (below 0.80)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 88% of the 1475 kVA contracted demand on 2026-11-04"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-11-04 (below 0.80)"
+    },
+    {
+      "date": "2026-11-04",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.24 on 2026-11-04 (below 0.90)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:33 on 2026-11-03"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:27 on 2026-11-03 (ran 170 min)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-11-03 (below 0.80)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.74 on 2026-11-03 (below 0.80)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.6% on 2026-11-03 (above 8%)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.4% on 2026-11-03 (above 8%)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-11-03 (below 0.80)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 87% of the 1475 kVA contracted demand on 2026-11-03"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-11-03 (below 0.80)"
+    },
+    {
+      "date": "2026-11-03",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.25 on 2026-11-03 (below 0.90)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:04 on 2026-11-02"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:24 on 2026-11-02 (ran 158 min)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.50 on 2026-11-02 (below 0.80)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.69 on 2026-11-02 (below 0.80)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.8% on 2026-11-02 (above 8%)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 18.9% on 2026-11-02 (above 8%)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-11-02 (below 0.80)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 91% of the 1475 kVA contracted demand on 2026-11-02"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-11-02 (below 0.80)"
+    },
+    {
+      "date": "2026-11-02",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.31 on 2026-11-02 (below 0.90)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:27 on 2026-11-01"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:29 on 2026-11-01 (ran 173 min)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.30 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.38 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 13.2% on 2026-11-01 (above 8%)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 32.8% on 2026-11-01 (above 8%)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.70 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.57 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.77 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Compressor",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Compressor's average power factor was 0.77 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-11-01 (below 0.80)"
+    },
+    {
+      "date": "2026-11-01",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.76 on 2026-11-01 (below 0.90)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:30 on 2026-10-31"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:30 on 2026-10-31 (ran 181 min)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.55 on 2026-10-31 (below 0.80)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.64 on 2026-10-31 (below 0.80)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.5% on 2026-10-31 (above 8%)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.71 on 2026-10-31 (below 0.80)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 92% of the 1475 kVA contracted demand on 2026-10-31"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-10-31 (below 0.80)"
+    },
+    {
+      "date": "2026-10-31",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.25 on 2026-10-31 (below 0.90)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:20 on 2026-10-30"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:44 on 2026-10-30 (ran 175 min)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-10-30 (below 0.80)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.4% on 2026-10-30 (above 8%)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.72 on 2026-10-30 (below 0.80)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 90% of the 1475 kVA contracted demand on 2026-10-30"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.72 on 2026-10-30 (below 0.80)"
+    },
+    {
+      "date": "2026-10-30",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.34 on 2026-10-30 (below 0.90)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:18 on 2026-10-29"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:43 on 2026-10-29 (ran 167 min)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.56 on 2026-10-29 (below 0.80)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.2% on 2026-10-29 (above 8%)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.72 on 2026-10-29 (below 0.80)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 88% of the 1475 kVA contracted demand on 2026-10-29"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.73 on 2026-10-29 (below 0.80)"
+    },
+    {
+      "date": "2026-10-29",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.23 on 2026-10-29 (below 0.90)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:36 on 2026-10-28"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:34 on 2026-10-28 (ran 184 min)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.56 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.73 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.6% on 2026-10-28 (above 8%)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.5% on 2026-10-28 (above 8%)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Molding",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Molding's average power factor was 0.79 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.71 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 95% of the 1475 kVA contracted demand on 2026-10-28"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.80 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.68 on 2026-10-28 (below 0.80)"
+    },
+    {
+      "date": "2026-10-28",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.32 on 2026-10-28 (below 0.90)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:28 on 2026-10-27"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:32 on 2026-10-27 (ran 181 min)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.56 on 2026-10-27 (below 0.80)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.7% on 2026-10-27 (above 8%)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 11.2% on 2026-10-27 (above 8%)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Molding",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Molding's average power factor was 0.78 on 2026-10-27 (below 0.80)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.72 on 2026-10-27 (below 0.80)"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 87% of the 1475 kVA contracted demand on 2026-10-27"
+    },
+    {
+      "date": "2026-10-27",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.34 on 2026-10-27 (below 0.90)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:17 on 2026-10-26"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:22 on 2026-10-26 (ran 162 min)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.49 on 2026-10-26 (below 0.80)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.74 on 2026-10-26 (below 0.80)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.5% on 2026-10-26 (above 8%)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 19.2% on 2026-10-26 (above 8%)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.68 on 2026-10-26 (below 0.80)"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 94% of the 1475 kVA contracted demand on 2026-10-26"
+    },
+    {
+      "date": "2026-10-26",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.38 on 2026-10-26 (below 0.90)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:58 on 2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 16:43 on 2026-10-25 (ran 159 min)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 16:49 on 2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 18:15 on 2026-10-25 (ran 2 min)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.30 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.54 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 13.8% on 2026-10-25 (above 8%)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 28.6% on 2026-10-25 (above 8%)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.66 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "DG",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "DG's average current THD was 9.4% on 2026-10-25 (above 8%)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "DG",
+      "type": "dg_started",
+      "severity": "info",
+      "description": "DG started at 16:51 on 2026-10-25"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.79 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.75 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "Compressor",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Compressor's average power factor was 0.78 on 2026-10-25 (below 0.80)"
+    },
+    {
+      "date": "2026-10-25",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.77 on 2026-10-25 (below 0.90)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:21 on 2026-10-24"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:30 on 2026-10-24 (ran 178 min)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.55 on 2026-10-24 (below 0.80)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.79 on 2026-10-24 (below 0.80)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.9% on 2026-10-24 (above 8%)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.0% on 2026-10-24 (above 8%)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.70 on 2026-10-24 (below 0.80)"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 87% of the 1475 kVA contracted demand on 2026-10-24"
+    },
+    {
+      "date": "2026-10-24",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.32 on 2026-10-24 (below 0.90)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:27 on 2026-10-23"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:34 on 2026-10-23 (ran 161 min)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-10-23 (below 0.80)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.79 on 2026-10-23 (below 0.80)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.7% on 2026-10-23 (above 8%)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.0% on 2026-10-23 (above 8%)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.71 on 2026-10-23 (below 0.80)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 91% of the 1475 kVA contracted demand on 2026-10-23"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "Airconditioning",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Airconditioning's average power factor was 0.71 on 2026-10-23 (below 0.80)"
+    },
+    {
+      "date": "2026-10-23",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.29 on 2026-10-23 (below 0.90)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:19 on 2026-10-22"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:33 on 2026-10-22 (ran 177 min)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.57 on 2026-10-22 (below 0.80)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.2% on 2026-10-22 (above 8%)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 10.1% on 2026-10-22 (above 8%)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Molding",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Molding's average power factor was 0.71 on 2026-10-22 (below 0.80)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.69 on 2026-10-22 (below 0.80)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 89% of the 1475 kVA contracted demand on 2026-10-22"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "DG",
+      "type": "dg_started",
+      "severity": "info",
+      "description": "DG started at 00:08 on 2026-10-22"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "DG",
+      "type": "dg_stopped",
+      "severity": "info",
+      "description": "DG stopped at 00:24 on 2026-10-22 (ran 3 min)"
+    },
+    {
+      "date": "2026-10-22",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.60 on 2026-10-22 (below 0.90)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:06 on 2026-10-21"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:15 on 2026-10-21 (ran 153 min)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.60 on 2026-10-21 (below 0.80)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.72 on 2026-10-21 (below 0.80)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.0% on 2026-10-21 (above 8%)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 21.5% on 2026-10-21 (above 8%)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.62 on 2026-10-21 (below 0.80)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "warning",
+      "description": "Peak demand utilization reached 85% of the 1475 kVA contracted demand on 2026-10-21"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "DG",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "DG's average current THD was 11.3% on 2026-10-21 (above 8%)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "DG",
+      "type": "dg_started",
+      "severity": "info",
+      "description": "DG started at 22:48 on 2026-10-21"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "DG",
+      "type": "dg_stopped",
+      "severity": "info",
+      "description": "DG stopped at 23:09 on 2026-10-21 (ran 4 min)"
+    },
+    {
+      "date": "2026-10-21",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.28 on 2026-10-21 (below 0.90)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:15 on 2026-10-20"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:28 on 2026-10-20 (ran 184 min)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.44 on 2026-10-20 (below 0.80)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.45 on 2026-10-20 (below 0.80)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.6% on 2026-10-20 (above 8%)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 38.3% on 2026-10-20 (above 8%)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.55 on 2026-10-20 (below 0.80)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.78 on 2026-10-20 (below 0.80)"
+    },
+    {
+      "date": "2026-10-20",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.68 on 2026-10-20 (below 0.90)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:23 on 2026-10-19"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:23 on 2026-10-19 (ran 183 min)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.44 on 2026-10-19 (below 0.80)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.39 on 2026-10-19 (below 0.80)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 14.2% on 2026-10-19 (above 8%)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 30.4% on 2026-10-19 (above 8%)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.55 on 2026-10-19 (below 0.80)"
+    },
+    {
+      "date": "2026-10-19",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.55 on 2026-10-19 (below 0.90)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:36 on 2026-10-18"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:14 on 2026-10-18 (ran 180 min)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.45 on 2026-10-18 (below 0.80)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.39 on 2026-10-18 (below 0.80)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 14.6% on 2026-10-18 (above 8%)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 27.9% on 2026-10-18 (above 8%)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.55 on 2026-10-18 (below 0.80)"
+    },
+    {
+      "date": "2026-10-18",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.56 on 2026-10-18 (below 0.90)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:34 on 2026-10-17"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:32 on 2026-10-17 (ran 194 min)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.41 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.42 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Others",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Others's average power factor was 0.75 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 11.9% on 2026-10-17 (above 8%)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 26.6% on 2026-10-17 (above 8%)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Molding",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Molding's average power factor was 0.79 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.62 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "HT_Room",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "HT_Room's average current THD was 14.1% on 2026-10-17 (above 8%)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Compressor 3",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 3's average power factor was 0.75 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Compressor 2",
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "description": "Compressor 2's average power factor was 0.77 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "Compressor",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Compressor's average power factor was 0.78 on 2026-10-17 (below 0.80)"
+    },
+    {
+      "date": "2026-10-17",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.84 on 2026-10-17 (below 0.90)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:17 on 2026-10-16"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:09 on 2026-10-16 (ran 189 min)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.53 on 2026-10-16 (below 0.80)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.71 on 2026-10-16 (below 0.80)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Others",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Others's average power factor was 0.74 on 2026-10-16 (below 0.80)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.9% on 2026-10-16 (above 8%)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.3% on 2026-10-16 (above 8%)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.64 on 2026-10-16 (below 0.80)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "HT_Room",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "HT_Room's average current THD was 14.8% on 2026-10-16 (above 8%)"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 96% of the 1475 kVA contracted demand on 2026-10-16"
+    },
+    {
+      "date": "2026-10-16",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.25 on 2026-10-16 (below 0.90)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:14 on 2026-10-15"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:27 on 2026-10-15 (ran 194 min)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.55 on 2026-10-15 (below 0.80)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.75 on 2026-10-15 (below 0.80)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Others",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Others's average power factor was 0.74 on 2026-10-15 (below 0.80)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 9.7% on 2026-10-15 (above 8%)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.7% on 2026-10-15 (above 8%)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.67 on 2026-10-15 (below 0.80)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "HT_Room",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "HT_Room's average current THD was 13.8% on 2026-10-15 (above 8%)"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 96% of the 1475 kVA contracted demand on 2026-10-15"
+    },
+    {
+      "date": "2026-10-15",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.38 on 2026-10-15 (below 0.90)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 06:29 on 2026-10-14"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 07:12 on 2026-10-14 (ran 15 min)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 07:23 on 2026-10-14"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:06 on 2026-10-14 (ran 165 min)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_started",
+      "severity": "info",
+      "description": "Solar Generation started at 17:14 on 2026-10-14"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Solar",
+      "type": "solar_stopped",
+      "severity": "info",
+      "description": "Solar Generation stopped at 17:29 on 2026-10-14 (ran 1 min)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Production_Power",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Production_Power's average power factor was 0.58 on 2026-10-14 (below 0.80)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Paintshop",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Paintshop's average power factor was 0.76 on 2026-10-14 (below 0.80)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Others",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Others's average power factor was 0.74 on 2026-10-14 (below 0.80)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Other",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "Other's average current THD was 10.1% on 2026-10-14 (above 8%)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "North_Utilities",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "North_Utilities's average current THD was 9.9% on 2026-10-14 (above 8%)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "Lighting",
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "description": "Lighting's average power factor was 0.70 on 2026-10-14 (below 0.80)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "HT_Room",
+      "type": "high_thd_current",
+      "severity": "warning",
+      "description": "HT_Room's average current THD was 13.2% on 2026-10-14 (above 8%)"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "HT_Room",
+      "type": "contracted_demand",
+      "severity": "critical",
+      "description": "Peak demand utilization reached 92% of the 1475 kVA contracted demand on 2026-10-14"
+    },
+    {
+      "date": "2026-10-14",
+      "device": "11kV Incomer",
+      "type": "low_power_factor_11kv",
+      "severity": "critical",
+      "description": "The 11kV incomer's average power factor was 0.38 on 2026-10-14 (below 0.90)"
+    }
+  ]
+}

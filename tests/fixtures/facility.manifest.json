@@ -1,0 +1,149 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-component-id-map-json.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-me.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "facility-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/realtime?device=Compressor": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/realtime?device=Compressor",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-realtime.json"
+  },
+  "GET https://ym.elementsenergies.com/api/realtime?device=Solar": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/realtime?device=Solar",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-realtime-2.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dashboard-cost-centers.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-profiles.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-06T00%3A00%3A00&end=2026-11-12T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/cost-centers?start=2026-11-06T00%3A00%3A00&end=2026-11-12T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dashboard-cost-centers-2.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dg/activity/range?start=2026-10-14T00%3A00%3A00&end=2026-11-12T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dg/activity/range?start=2026-10-14T00%3A00%3A00&end=2026-11-12T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dg-activity-range.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dashboard-overview.json"
+  },
+  "GET https://api.open-meteo.com/v1/forecast?latitude=28.4089&longitude=77.3178&current=temperature_2m%2Capparent_temperature%2Crelative_humidity_2m%2Cprecipitation%2Crain%2Cshowers%2Cweather_code%2Ccloud_cover%2Cwind_speed_10m%2Cwind_direction_10m%2Cwind_gusts_10m%2Cpressure_msl%2Csurface_pressure%2Cdew_point_2m%2Cvisibility%2Cuv_index%2Cis_day&hourly=temperature_2m%2Cprecipitation_probability%2Cweather_code%2Cis_day%2Cshortwave_radiation%2Cdirect_radiation%2Cdiffuse_radiation%2Ccloud_cover%2Cwind_speed_10m%2Crelative_humidity_2m%2Cuv_index&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Capparent_temperature_max%2Capparent_temperature_min%2Csunrise%2Csunset%2Cuv_index_max%2Cprecipitation_sum%2Cprecipitation_probability_max%2Cwind_speed_10m_max%2Cwind_direction_10m_dominant%2Cshortwave_radiation_sum&timezone=auto&forecast_days=3": {
+    "method": "GET",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.4089&longitude=77.3178&current=temperature_2m%2Capparent_temperature%2Crelative_humidity_2m%2Cprecipitation%2Crain%2Cshowers%2Cweather_code%2Ccloud_cover%2Cwind_speed_10m%2Cwind_direction_10m%2Cwind_gusts_10m%2Cpressure_msl%2Csurface_pressure%2Cdew_point_2m%2Cvisibility%2Cuv_index%2Cis_day&hourly=temperature_2m%2Cprecipitation_probability%2Cweather_code%2Cis_day%2Cshortwave_radiation%2Cdirect_radiation%2Cdiffuse_radiation%2Ccloud_cover%2Cwind_speed_10m%2Crelative_humidity_2m%2Cuv_index&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min%2Capparent_temperature_max%2Capparent_temperature_min%2Csunrise%2Csunset%2Cuv_index_max%2Cprecipitation_sum%2Cprecipitation_probability_max%2Cwind_speed_10m_max%2Cwind_direction_10m_dominant%2Cshortwave_radiation_sum&timezone=auto&forecast_days=3",
+    "status": 200,
+    "contentType": "application/json; charset=utf-8",
+    "file": "facility-v1-forecast.json"
+  },
+  "GET https://api.open-meteo.com/v1/forecast?latitude=28.4089&longitude=77.3178&daily=sunrise%2Csunset&timezone=auto&start_date=2026-11-12&end_date=2026-11-12": {
+    "method": "GET",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=28.4089&longitude=77.3178&daily=sunrise%2Csunset&timezone=auto&start_date=2026-11-12&end_date=2026-11-12",
+    "status": 200,
+    "contentType": "application/json; charset=utf-8",
+    "file": "facility-v1-forecast-2.json"
+  },
+  "GET https://ym.elementsenergies.com/api/consumption?unit=kWh&date=2026-11-12&zone=Compressor": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/consumption?unit=kWh&date=2026-11-12&zone=Compressor",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-consumption.json"
+  },
+  "GET https://ym.elementsenergies.com/api/realtime/trend/hourly?device=Solar&start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/realtime/trend/hourly?device=Solar&start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-realtime-trend-hourly.json"
+  },
+  "GET https://ym.elementsenergies.com/api/realtime/trend/hourly?device=Solar&start=2026-11-11T00%3A00%3A00&end=2026-11-11T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/realtime/trend/hourly?device=Solar&start=2026-11-11T00%3A00%3A00&end=2026-11-11T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-realtime-trend-hourly-2.json"
+  },
+  "GET https://ym.elementsenergies.com/api/consumption/sources?date=2026-11-12": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/consumption/sources?date=2026-11-12",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-consumption-sources.json"
+  },
+  "GET https://ym.elementsenergies.com/api/solar/performance?date=2026-11-12": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/solar/performance?date=2026-11-12",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-solar-performance.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dg/activity/range?start=2026-09-14T00%3A00%3A00&end=2026-10-13T23%3A59%3A59": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dg/activity/range?start=2026-09-14T00%3A00%3A00&end=2026-10-13T23%3A59%3A59",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dg-activity-range-2.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#8e1fc47a3e": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "facility-post-api-tracking-events.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-alerts-active.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-06T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/overview?start=2026-11-06T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&tariff=HT_1",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "facility-api-dashboard-overview-2.json"
+  }
+}

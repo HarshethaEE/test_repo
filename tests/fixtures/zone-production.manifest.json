@@ -1,0 +1,44 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-production-component-id-map-json.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-production-api-me.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-production-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-production-api-alerts-active.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-production-api-profiles.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#54a04967b4": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-production-post-api-tracking-events.json"
+  }
+}

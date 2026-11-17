@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-11-12T16:32:01.689233+05:30",
+  "devicesChecked": 20,
+  "counts": {
+    "critical": 2,
+    "warning": 6,
+    "info": 0
+  },
+  "alerts": [
+    {
+      "type": "compressor_utilization",
+      "severity": "critical",
+      "device": "Compressor 1",
+      "message": "Compressor 1 utilization is 127%, above 90% - assess sustained loading, demand peaks, and equipment limits",
+      "value": 126.7,
+      "threshold": 90,
+      "unit": "%",
+      "id": "compressor_utilization:Compressor 1",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "compressor_utilization",
+      "severity": "critical",
+      "device": "Compressor 3",
+      "message": "Compressor 3 utilization is 92%, above 90% - assess sustained loading, demand peaks, and equipment limits",
+      "value": 92,
+      "threshold": 90,
+      "unit": "%",
+      "id": "compressor_utilization:Compressor 3",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "low_power_factor_compressor",
+      "severity": "warning",
+      "device": "Compressor 2",
+      "message": "Compressor 2's power factor has fallen below 0.80 (currently 0.69)",
+      "value": 0.69,
+      "threshold": 0.8,
+      "unit": "",
+      "id": "low_power_factor_compressor:Compressor 2",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "high_thd_current",
+      "severity": "warning",
+      "device": "HT_Room",
+      "message": "HT_Room's current THD is 16.0%, above the 8% limit",
+      "value": 16,
+      "threshold": 8,
+      "unit": "%",
+      "id": "high_thd_current:HT_Room",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "device": "Lighting",
+      "message": "Lighting's power factor has fallen below 0.80 (currently 0.66)",
+      "value": 0.66,
+      "threshold": 0.8,
+      "unit": "",
+      "id": "low_power_factor_equipment:Lighting",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "high_thd_current",
+      "severity": "warning",
+      "device": "North_Utilities",
+      "message": "North_Utilities's current THD is 12.2%, above the 8% limit",
+      "value": 12.2,
+      "threshold": 8,
+      "unit": "%",
+      "id": "high_thd_current:North_Utilities",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "device": "Others",
+      "message": "Others's power factor has fallen below 0.80 (currently 0.75)",
+      "value": 0.75,
+      "threshold": 0.8,
+      "unit": "",
+      "id": "low_power_factor_equipment:Others",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    },
+    {
+      "type": "low_power_factor_equipment",
+      "severity": "warning",
+      "device": "Production_Power",
+      "message": "Production_Power's power factor has fallen below 0.80 (currently 0.64)",
+      "value": 0.64,
+      "threshold": 0.8,
+      "unit": "",
+      "id": "low_power_factor_equipment:Production_Power",
+      "timestamp": "2026-11-12T16:32:01.689233+05:30"
+    }
+  ]
+}

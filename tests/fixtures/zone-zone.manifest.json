@@ -1,0 +1,65 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-component-id-map-json.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-me.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-zone-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-alerts-active.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-profiles.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/zone-daily?month=2026-11&zones=all": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/zone-daily?month=2026-11&zones=all",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-dashboard-zone-daily.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/zone-yearly?year=2026&zones=all": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/zone-yearly?year=2026&zones=all",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-dashboard-zone-yearly.json"
+  },
+  "GET https://ym.elementsenergies.com/api/dashboard/zone-hourly?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&zones=all": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/dashboard/zone-hourly?start=2026-11-12T00%3A00%3A00&end=2026-11-12T23%3A59%3A59&zones=all",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "zone-zone-api-dashboard-zone-hourly.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#715e19e560": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "zone-zone-post-api-tracking-events.json"
+  }
+}

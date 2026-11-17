@@ -1,0 +1,91 @@
+{
+  "start": "2026-11-12T00:00:00",
+  "end": "2026-11-12T23:59:59",
+  "costCenters": [
+    {
+      "name": "General Admin",
+      "kwh": 4339.3,
+      "mapped": true
+    },
+    {
+      "name": "Production Improve",
+      "kwh": 4112.7,
+      "mapped": true
+    },
+    {
+      "name": "Painting Printing",
+      "kwh": 1606.9,
+      "mapped": true
+    },
+    {
+      "name": "AG Painting",
+      "kwh": 1279.5,
+      "mapped": true
+    },
+    {
+      "name": "AG WP Process",
+      "kwh": 539.5,
+      "mapped": true
+    },
+    {
+      "name": "AG WW Assy",
+      "kwh": 507,
+      "mapped": true
+    },
+    {
+      "name": "PK Assy",
+      "kwh": 187.5,
+      "mapped": true
+    },
+    {
+      "name": "PA WW Process",
+      "kwh": 156.1,
+      "mapped": true
+    },
+    {
+      "name": "AG Assy",
+      "kwh": 148.4,
+      "mapped": true
+    },
+    {
+      "name": "Logistics & Shipping",
+      "kwh": 99.8,
+      "mapped": true
+    },
+    {
+      "name": "Process Inspection",
+      "kwh": 73,
+      "mapped": true
+    },
+    {
+      "name": "Information System",
+      "kwh": 37,
+      "mapped": true
+    },
+    {
+      "name": "Material W/H",
+      "kwh": 28.2,
+      "mapped": true
+    },
+    {
+      "name": "PA Painting",
+      "kwh": 26.4,
+      "mapped": true
+    },
+    {
+      "name": "AG KILN Dry",
+      "kwh": 21.9,
+      "mapped": true
+    },
+    {
+      "name": "Production Prepare",
+      "kwh": 4.1,
+      "mapped": true
+    },
+    {
+      "name": "PA Assy",
+      "kwh": 1.6,
+      "mapped": true
+    }
+  ]
+}

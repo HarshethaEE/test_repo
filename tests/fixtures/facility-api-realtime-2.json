@@ -1,0 +1,20 @@
+{
+  "device": "Solar",
+  "params": {
+    "voltageAvg": 238.8436279296875,
+    "voltageA": 238.06715393066406,
+    "voltageB": 238.9290313720703,
+    "voltageC": 239.53469848632812,
+    "currentAvg": 16.477930068969727,
+    "currentA": 16.409286499023438,
+    "currentB": 16.496566772460938,
+    "currentC": 16.527935028076172,
+    "powerFactorTotal": 0.9910135269165039,
+    "realPowerTotal": 11.700931549072266,
+    "apparentPowerTotal": 11.807035446166992,
+    "reactivePowerTotal": -1.579110026359558,
+    "frequency": 50.04222106933594
+  },
+  "timestamp": "2026-11-12T16:15:30.633000+05:30",
+  "stale": false
+}

@@ -1,0 +1,4480 @@
+{
+  "count": 639,
+  "date": "2026-11-12",
+  "type": "default",
+  "data": [
+    {
+      "name": "AG Assy",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 448.34
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1.5
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 21.27
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.5
+    },
+    {
+      "name": "AG Painting",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1419.93
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 26.8
+    },
+    {
+      "name": "AG WP Process",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 539.33
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 5.2
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1357.74
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 7.7
+    },
+    {
+      "name": "Airconditioning",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 2524.06
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 22.3
+    },
+    {
+      "name": "Compressor",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 5938.56
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 41.7
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1288.05
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 12.7
+    },
+    {
+      "name": "General Admin",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 4685.5
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 50.6
+    },
+    {
+      "name": "Information System",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 87.56
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.7
+    },
+    {
+      "name": "Lighting",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 577.73
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 7.5
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 122.24
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.7
+    },
+    {
+      "name": "Material W/H",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 63.67
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1.1
+    },
+    {
+      "name": "Molding",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 3172.89
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 26.6
+    },
+    {
+      "name": "PA Assy",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1.75
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 30.95
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.5
+    },
+    {
+      "name": "PA WW Process",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 152.18
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.3
+    },
+    {
+      "name": "PK Assy",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 490.93
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1.4
+    },
+    {
+      "name": "Painting Printing",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1755.76
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 14.1
+    },
+    {
+      "name": "Paintshop",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 2992.93
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 28.3
+    },
+    {
+      "name": "Process Inspection",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 80.64
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 1.2
+    },
+    {
+      "name": "Production Improve",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 8053.88
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 53.8
+    },
+    {
+      "name": "Production Prepare",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 16.88
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0.1
+    },
+    {
+      "name": "Production_Power",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 2422.13
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 24.1
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "daily",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 18201.04
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 0,
+      "predicted": 149.5
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 43.65
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.1
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.47
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.36
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 127.28
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 4.95
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 373.33
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 84.73
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 5.27
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 7.45
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 1.82
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.44
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 4.31
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 172.47
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.08
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 45.14
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 2.94
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 165.85
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0.13
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 582.13
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 2.01
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 2.99
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 1,
+      "predicted": 782.64
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 43.47
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.1
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.52
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.35
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 129.17
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 4.9
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 372.55
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 85.63
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 5.37
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 7.42
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 1.51
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.44
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 4.3
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 172.67
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.08
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 44.95
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 2.93
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 166.05
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0.14
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 579.91
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 2
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 2.22
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 2,
+      "predicted": 782.06
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 15.76
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 1.36
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 6.52
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 5.47
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 28.36
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 75.5
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 159.65
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 25.5
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 60.63
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 2.62
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 11.9
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 4.38
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 2.62
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 85.59
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 0.07
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 1.17
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 0
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 22.93
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 63.83
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 102.03
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 1.18
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 286.27
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 1.06
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 34.45
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 3,
+      "predicted": 480.22
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 14.92
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 1.86
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 4.02
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 4.03
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 25.57
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 91.64
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 168.34
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 27.33
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 74.4
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 2.31
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 12.55
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 4.07
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 2.43
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 91.69
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 0.09
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 0.95
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 20.74
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 96.72
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 82.4
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 1.26
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 264.47
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 0.85
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 34.88
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 4,
+      "predicted": 494
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 10.96
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 1.72
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 1.49
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 2.9
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 19.86
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 77.16
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 125.02
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 16.56
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 103.39
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 1.71
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 6.45
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 3.99
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0.8
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 67.52
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0.13
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0.59
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 13.66
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 102.99
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 82.56
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 1.78
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 167.42
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0.62
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 50.49
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 5,
+      "predicted": 413.36
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 9.86
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 3.01
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 7.33
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 6.27
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 13.05
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 109.29
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 138.61
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 9.21
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 107.33
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 1.75
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 13.79
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 6.79
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 1.79
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 94.82
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 0.13
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 1.21
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 18.46
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 106.6
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 90.46
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 2.03
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 237.69
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 0.54
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 57.68
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 0.98
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 6,
+      "predicted": 498.9
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 5.31
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 1.98
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 21.4
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 3.57
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 6.39
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 127.32
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 112.24
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 9.84
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 153.99
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 1.39
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 14.6
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 4.59
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 0.81
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 88.99
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 0.09
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 0.84
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 0
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 11.55
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 89.8
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 90.61
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 2.27
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 204.51
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 0.35
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 55.56
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 16.13
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 7,
+      "predicted": 484.62
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 9.62
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 3.27
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 41.62
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 8.2
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 45.23
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 139.62
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 206.04
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 24.48
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 225.47
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 4.38
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 20.76
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 6.4
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 2.07
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 132.41
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 0.14
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 1.52
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 2.26
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 15.85
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 114.73
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 110.85
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 6.87
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 287.63
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 0.67
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 126.98
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 36.82
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 8,
+      "predicted": 738.97
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 7.68
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 2.8
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 34.43
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 3.85
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 37.99
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 127.79
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 202.63
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 21.58
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 227.72
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 3.51
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 22.18
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 7.06
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 1.85
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 121.48
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 0.12
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 1.22
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 2.21
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 9.05
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 107.18
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 106.98
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 6.51
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 280.18
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 0.7
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 117.43
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 48.54
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 9,
+      "predicted": 699.09
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 7.37
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 1.05
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 66.3
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 11.63
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 40.65
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 161.22
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 223.41
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 26.5
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 270.32
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 3.73
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 25.63
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 8.22
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 1.91
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 142.06
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 0.11
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 1.43
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 2.75
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 11.43
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 103.12
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 122.36
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 6.13
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 325.33
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 0.59
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 144.48
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 51.76
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 10,
+      "predicted": 821.02
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 15.36
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 0.12
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 115.83
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 31.08
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 52.02
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 160.82
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 253.75
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 62.49
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 326.7
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 3.32
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 32.23
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 6.48
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 1.93
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 140.43
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 0.09
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 1.9
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 9.41
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 18.45
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 94.22
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 126.19
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 5.5
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 256.71
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 0.58
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 145.89
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 68.67
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 11,
+      "predicted": 894.95
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 24.45
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 0.1
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 141.56
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 32.78
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 57.59
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 200.41
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 319.06
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 75.08
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 388.06
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 3.9
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 40.1
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 8.45
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 1.9
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 157.41
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 0.11
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 2.56
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 8.61
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 20.14
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 114.57
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 153.37
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 7.39
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 348.93
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 0.51
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 194.08
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 56.54
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 12,
+      "predicted": 1106.31
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 18.16
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 0.05
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 147.74
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 39.16
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 63.13
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 188.09
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 344.38
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 76.14
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 397.17
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 4.3
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 42.24
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 8.42
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 1.89
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 154.37
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 0.11
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 2.56
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 13.73
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 22.31
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 111.19
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 144.63
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 6.69
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 330.81
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 0.67
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 196.02
+    },
+    {
+      "name": "Solar",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 57.71
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 13,
+      "predicted": 1112.49
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 15.83
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 0.05
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 126.44
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 35.63
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 53.66
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 159.37
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 279.87
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 70.8
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 333.61
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 3.78
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 39.13
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 8.52
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 2.39
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 139.64
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 0.1
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 2.67
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 13.19
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 19.35
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 97.93
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 133.52
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 6.8
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 302.29
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 0.6
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 180.99
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 14,
+      "predicted": 974.11
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 16.56
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 0.05
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 136.75
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 40.34
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 56.04
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 164.45
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 307.05
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 72.38
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 366.52
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 3.85
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 43.32
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 10.33
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 1.8
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 152.04
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 0.1
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 2.65
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 12.11
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 20.02
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 118.11
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 147.13
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 6.92
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 300.02
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 0.67
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 185.65
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 15,
+      "predicted": 1040.8
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 15.19
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 0.05
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 122.81
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 34.76
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 52.34
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 142.01
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 293.2
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 70.5
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 316.58
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 3.38
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 41.13
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 9.37
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 3
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 97.75
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 0.1
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 2.44
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 12.43
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 19.17
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 106.48
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 139.54
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 5.92
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 266.16
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 0.56
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 168.13
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 16,
+      "predicted": 924.52
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 33.99
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 0.08
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 27.38
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 9.2
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 93.16
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 37.83
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 347.25
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 78.05
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 146.38
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 5.41
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 12.06
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 6.39
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 6.38
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 165.5
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 0.02
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 0.94
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 0.35
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 32.16
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 15.25
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 168.07
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 1.9
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 469.14
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 1.22
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 24.43
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 17,
+      "predicted": 808.92
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 36.18
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 0.09
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 17.25
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 6.68
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 102.01
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 23.11
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 345.47
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 82.33
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 114.58
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 5.96
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 6.87
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 3.75
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 5.08
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 165.27
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 0.02
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 0.37
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 0.18
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 34.42
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 3.9
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 158.08
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 0.93
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 477.11
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 1.34
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 13.29
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 18,
+      "predicted": 771.28
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 44.74
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 0.12
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 4.62
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 4.37
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 130.67
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 19.08
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 360.58
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 80.02
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 18.52
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 7.92
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 4.77
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 0.37
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 5.38
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 163.74
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 0.01
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 0.17
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 45.33
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 3.09
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 164
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 1.12
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 547.31
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 1.82
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 7.84
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 19,
+      "predicted": 776.73
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 37.07
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0.1
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 3.85
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 3.67
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 113.76
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 16.55
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 316.71
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 71.62
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 6.98
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 6.6
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 3.74
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0.31
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 3.93
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 150.04
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0.07
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 39.51
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 2.6
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 143.22
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 0.66
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 501.49
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 1.61
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 6.58
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 20,
+      "predicted": 687.82
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 44.51
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0.11
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 4.45
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 4.3
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 133.45
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 17.74
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 382.43
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 87.69
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 6.61
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 7.7
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 4.18
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0.36
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 4.48
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 177.72
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0.08
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 46.35
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 3.05
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 171.06
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 0.32
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 603.77
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 1.98
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 4.31
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 21,
+      "predicted": 820.51
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 42.9
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.11
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 4.26
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.59
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 128.31
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 5.12
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 371.07
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 84.94
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 5.26
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 7.53
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 2.9
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.32
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 4.3
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 172.15
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.08
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.01
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 44.67
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 2.94
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 165.69
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 0.15
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 577.36
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 1.94
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 3.21
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 22,
+      "predicted": 781.65
+    },
+    {
+      "name": "AG Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 42.87
+    },
+    {
+      "name": "AG KILN Dry",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.11
+    },
+    {
+      "name": "AG Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 4.12
+    },
+    {
+      "name": "AG WP Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.59
+    },
+    {
+      "name": "AG WW Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 128.24
+    },
+    {
+      "name": "Airconditioning",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0
+    },
+    {
+      "name": "Compressor",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 374.93
+    },
+    {
+      "name": "Dust_Collector",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 85.82
+    },
+    {
+      "name": "General Admin",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 5.26
+    },
+    {
+      "name": "Information System",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 7.53
+    },
+    {
+      "name": "Lighting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 2.93
+    },
+    {
+      "name": "Logistics & Shipping",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.32
+    },
+    {
+      "name": "Material W/H",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 4.33
+    },
+    {
+      "name": "Molding",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 173.94
+    },
+    {
+      "name": "PA Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0
+    },
+    {
+      "name": "PA Painting",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.08
+    },
+    {
+      "name": "PA WW Process",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.28
+    },
+    {
+      "name": "PK Assy",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 44.65
+    },
+    {
+      "name": "Painting Printing",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 3.31
+    },
+    {
+      "name": "Paintshop",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 167.42
+    },
+    {
+      "name": "Process Inspection",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0.02
+    },
+    {
+      "name": "Production Improve",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 577.03
+    },
+    {
+      "name": "Production Prepare",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 1.94
+    },
+    {
+      "name": "Production_Power",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 0
+    },
+    {
+      "name": "yamaha_total",
+      "type": "hourly",
+      "date": "2026-11-12",
+      "hour": 23,
+      "predicted": 781.6
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "GET https://ym.elementsenergies.com/component-id-map.json": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/component-id-map.json",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-component-id-map-json.json"
+  },
+  "GET https://ym.elementsenergies.com/api/me": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/me?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-api-me-2.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/session": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/session",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "alerts-active-post-api-tracking-session.json"
+  },
+  "GET https://ym.elementsenergies.com/api/profiles": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/profiles?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-api-profiles.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/assignable-users": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/assignable-users?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-api-alerts-assignable-users.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/assignments": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/assignments?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-api-alerts-assignments.json"
+  },
+  "GET https://ym.elementsenergies.com/api/alerts/active": {
+    "method": "GET",
+    "url": "https://ym.elementsenergies.com/api/alerts/active?",
+    "status": 200,
+    "contentType": "application/json",
+    "file": "alerts-active-api-alerts-active.json"
+  },
+  "POST https://ym.elementsenergies.com/api/tracking/events#0d4bfe1ee9": {
+    "method": "POST",
+    "url": "https://ym.elementsenergies.com/api/tracking/events",
+    "status": 201,
+    "contentType": "application/json",
+    "file": "alerts-active-post-api-tracking-events.json"
+  }
+}

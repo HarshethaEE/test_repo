@@ -1,0 +1,25 @@
+{
+  "latitude": 28.435852,
+  "longitude": 77.318184,
+  "generationtime_ms": 0.008344650268554688,
+  "utc_offset_seconds": 19800,
+  "timezone": "Asia/Kolkata",
+  "timezone_abbreviation": "GMT+5:30",
+  "elevation": 207,
+  "daily_units": {
+    "time": "iso8601",
+    "sunrise": "iso8601",
+    "sunset": "iso8601"
+  },
+  "daily": {
+    "time": [
+      "2026-11-12"
+    ],
+    "sunrise": [
+      "2026-11-12T06:40"
+    ],
+    "sunset": [
+      "2026-11-12T17:28"
+    ]
+  }
+}

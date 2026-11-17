@@ -1,0 +1,38 @@
+{
+  "start": "2026-09-14T00:00:00",
+  "end": "2026-10-13T23:59:59",
+  "totalRuntimeMinutes": 62,
+  "totalStarts": 5,
+  "daily": [
+    {
+      "date": "2026-09-20",
+      "runtimeMinutes": 22,
+      "starts": 1,
+      "energyKwh": 40
+    },
+    {
+      "date": "2026-09-22",
+      "runtimeMinutes": 14,
+      "starts": 2,
+      "energyKwh": 145.6
+    },
+    {
+      "date": "2026-10-01",
+      "runtimeMinutes": 15,
+      "starts": 1,
+      "energyKwh": 60.2
+    },
+    {
+      "date": "2026-10-03",
+      "runtimeMinutes": 0,
+      "starts": 0,
+      "energyKwh": 4.5
+    },
+    {
+      "date": "2026-10-05",
+      "runtimeMinutes": 11,
+      "starts": 1,
+      "energyKwh": 55.7
+    }
+  ]
+}

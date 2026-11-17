@@ -1,0 +1,886 @@
+{
+  "feeders": {
+    "Production_Power.PA_OQC_5kVA_UPS/": {
+      "volts": 239.89999389648438,
+      "amps": 2.9000000953674316,
+      "kw": 0.20800000429153442,
+      "timestamp": "2026-11-12T16:15:37.819000+05:30",
+      "stale": false
+    },
+    "Other.SDB-10A_P_Nuresy/": {
+      "volts": 238.82984924316406,
+      "amps": 0.07693413645029068,
+      "kw": 0.027774281799793243,
+      "timestamp": "2026-11-12T16:16:08.063000+05:30",
+      "stale": false
+    },
+    "Production_Power.PDB-11_PK_Moulding/": {
+      "volts": 239.18975830078125,
+      "amps": 24.520036697387695,
+      "kw": 13.459912109375,
+      "timestamp": "2026-11-12T16:17:06.504000+05:30",
+      "stale": false
+    },
+    "Production_Power.Wood_Mizer_Blade_Grinder/": {
+      "volts": 237.6999969482422,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:15:58.143000+05:30",
+      "stale": false
+    },
+    "Other.PDB-5_Pump_Room/": {
+      "volts": 238.8880615234375,
+      "amps": 1.2000000467046398e-16,
+      "kw": 1.2000000467046398e-19,
+      "timestamp": "2026-11-12T16:16:28.231000+05:30",
+      "stale": false
+    },
+    "Production_Power.AG_Paint_High_Speed_Shutter4/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.PP-G2-2_415V_AG_FA/": {
+      "volts": 238.87583923339844,
+      "amps": 1.8443411588668823,
+      "kw": 0.8223514404296876,
+      "timestamp": "2026-11-12T16:16:38.822000+05:30",
+      "stale": false
+    },
+    "Other.Vendor_Yard/": {
+      "volts": 238.8392333984375,
+      "amps": 8.000001193690252e-17,
+      "kw": 8.000001193690252e-20,
+      "timestamp": "2026-11-12T16:16:45.493000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PP-G3-3_415V_Chamber_AG_Paint/": {
+      "volts": 238.64923095703125,
+      "amps": 4.000000596845126e-17,
+      "kw": 4.000000596845126e-20,
+      "timestamp": "2026-11-12T16:15:52.207000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-6/": {
+      "volts": 239.06243896484375,
+      "amps": 6.322877407073975,
+      "kw": 4.3114213943481445,
+      "timestamp": "2026-11-12T16:16:37.651000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-3_100T/": {
+      "volts": 241.65576171875,
+      "amps": 19.166040420532227,
+      "kw": 12.544116210937501,
+      "timestamp": "2026-11-12T16:16:58.162000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-13_L_Moulding/": {
+      "volts": 238.49827575683594,
+      "amps": 6.36613130569458,
+      "kw": 4.496600151062012,
+      "timestamp": "2026-11-12T16:16:42.259000+05:30",
+      "stale": false
+    },
+    "Incomer.Incomer_Solar_100kW/": {
+      "volts": 238.8436279296875,
+      "amps": 16.477930068969727,
+      "kw": 11.700931549072266,
+      "timestamp": "2026-11-12T16:15:30.633000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Air_Conditioning-3/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Compressor.Compressor_1/": {
+      "volts": 239.5731201171875,
+      "amps": 143.7965087890625,
+      "kw": 95.05349731445312,
+      "timestamp": "2026-11-12T16:17:18.252000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-18_L/": {
+      "volts": 238.642822265625,
+      "amps": 17.7869930267334,
+      "kw": 12.691274642944336,
+      "timestamp": "2026-11-12T16:16:55.178000+05:30",
+      "stale": false
+    },
+    "Other.SDB-9A_Office_Power/": {
+      "volts": 238.6651611328125,
+      "amps": 5.946971893310547,
+      "kw": 3.0559473037719727,
+      "timestamp": "2026-11-12T16:16:30.074000+05:30",
+      "stale": false
+    },
+    "Production_Power.PDB-9_RS/": {
+      "volts": 241.17552185058594,
+      "amps": 13.82522201538086,
+      "kw": 9.4830322265625,
+      "timestamp": "2026-11-12T16:15:48.598000+05:30",
+      "stale": false
+    },
+    "Dust_Collector.G0_143_Dust_Collector/": {
+      "volts": 238.7451934814453,
+      "amps": 34.924072265625,
+      "kw": 21.597630859375002,
+      "timestamp": "2026-11-12T16:15:50.957000+05:30",
+      "stale": false
+    },
+    "Production_Power.Wood_Mizer/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Dust_Collector.PP-G0-142_Dust_Collector/": {
+      "volts": 241.13185119628906,
+      "amps": 31.817359924316406,
+      "kw": 18.86776953125,
+      "timestamp": "2026-11-12T16:16:28.824000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-9_450T/": {
+      "volts": 241.76368713378906,
+      "amps": 8.000001193690252e-17,
+      "kw": 8.000001193690252e-20,
+      "timestamp": "2026-11-12T16:16:59.584000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-12_P_Paint/": {
+      "volts": 241.1431884765625,
+      "amps": 29.782608032226562,
+      "kw": 12.223037719726562,
+      "timestamp": "2026-11-12T16:16:51.882000+05:30",
+      "stale": false
+    },
+    "Paintshop.PP-PK_Paint/": {
+      "volts": 241.0794677734375,
+      "amps": 104.1803207397461,
+      "kw": 62.37084765625,
+      "timestamp": "2026-11-12T16:15:52.316000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-PA-1_Wood_Finish/": {
+      "volts": 238.85569763183594,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:15:26.821000+05:30",
+      "stale": false
+    },
+    "Production_Power.Universal_Grinding_Tool/": {
+      "volts": 239,
+      "amps": 0.019999999552965164,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:17:00.631000+05:30",
+      "stale": false
+    },
+    "Dust_Collector.Dust_Collector/": {
+      "volts": 241.8717041015625,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:16:55.881000+05:30",
+      "stale": false
+    },
+    "Dust_Collector.G0_145_Dust_Collector/": {
+      "volts": 238.7106170654297,
+      "amps": 26.604795455932617,
+      "kw": 15.478939453125001,
+      "timestamp": "2026-11-12T16:15:45.630000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G3-2_240V_AG_Paint/": {
+      "volts": 238.6566925048828,
+      "amps": 10.048341751098633,
+      "kw": 6.98669287109375,
+      "timestamp": "2026-11-12T16:15:49.863000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB_Ext_Lighting_GH_1/": {
+      "volts": 238.38621520996094,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:15:07.278000+05:30",
+      "stale": false
+    },
+    "Dust_Collector.G0_144_Dust_Collector/": {
+      "volts": 239.27171325683594,
+      "amps": 30.732311248779297,
+      "kw": 18.66259375,
+      "timestamp": "2026-11-12T16:17:19.970000+05:30",
+      "stale": false
+    },
+    "Compressor.PDB-12_Compressor/": {
+      "volts": 241.5547637939453,
+      "amps": 267.6600036621094,
+      "kw": 178.38595312500001,
+      "timestamp": "2026-11-12T16:16:53.273000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-20_P_PA_Paint/": {
+      "volts": 240.66075134277344,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:15:31.351000+05:30",
+      "stale": false
+    },
+    "Other.SDB_18_P_UPS/": {
+      "volts": 241.2478790283203,
+      "amps": 10.358878135681152,
+      "kw": 2.8448867797851562,
+      "timestamp": "2026-11-12T16:16:43.978000+05:30",
+      "stale": false
+    },
+    "Production_Power.AG_Paintshop_lighting/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.SDB-21_P_PK_Assembly_Extn/": {
+      "volts": 241.49537658691406,
+      "amps": 2.3398163318634033,
+      "kw": 1.496874213218689,
+      "timestamp": "2026-11-12T16:16:55.038000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PDB-3_Office/": {
+      "volts": 239.2281036376953,
+      "amps": 32.220481872558594,
+      "kw": 21.3710625,
+      "timestamp": "2026-11-12T16:16:54.835000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-20_1600T/": {
+      "volts": 241.7328338623047,
+      "amps": 2.08154559135437,
+      "kw": 1.2632346153259277,
+      "timestamp": "2026-11-12T16:15:45.239000+05:30",
+      "stale": false
+    },
+    "Production_Power.PDB-14_Dry_Space-2/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": "2026-11-12T16:16:43.111000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-9_L_Office/": {
+      "volts": 237.97657775878906,
+      "amps": 5.446044445037842,
+      "kw": 2.5616183280944824,
+      "timestamp": "2026-11-12T16:15:13.542000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-8_350T/": {
+      "volts": 241.0623321533203,
+      "amps": 28.897367477416992,
+      "kw": 16.3436357421875,
+      "timestamp": "2026-11-12T16:15:38.569000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-3_L_AG_WW/": {
+      "volts": 237.6263427734375,
+      "amps": 8.705527305603027,
+      "kw": 6.167365074157715,
+      "timestamp": "2026-11-12T16:15:59.127000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Air_Conditioning-1/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.PP-G5_380V_Maintenance/": {
+      "volts": 216.7548828125,
+      "amps": 0.19586408138275146,
+      "kw": 0.11864369362592697,
+      "timestamp": "2026-11-12T16:17:03.505000+05:30",
+      "stale": false
+    },
+    "Other.PDB-10_North_LT_Room/": {
+      "volts": 241.16845703125,
+      "amps": 0.04392112046480179,
+      "kw": 8.00011038153111e-21,
+      "timestamp": "2026-11-12T16:15:42.365000+05:30",
+      "stale": false
+    },
+    "Other.PP-ETP/": {
+      "volts": 241.7416229248047,
+      "amps": 35.047542572021484,
+      "kw": 17.68458203125,
+      "timestamp": "2026-11-12T16:16:57.162000+05:30",
+      "stale": false
+    },
+    "Other.PDB_YMIN_Site_Office/": {
+      "volts": 238.8262176513672,
+      "amps": 2.0000001329864406e-17,
+      "kw": 2.0000001329864406e-20,
+      "timestamp": "2026-11-12T16:16:31.371000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-1_L_SWH/": {
+      "volts": 238.14141845703125,
+      "amps": 12.797877311706543,
+      "kw": 9.070842742919922,
+      "timestamp": "2026-11-12T16:14:59.576000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-5_180T/": {
+      "volts": 241.5370635986328,
+      "amps": 10.35794734954834,
+      "kw": 4.3473969726562505,
+      "timestamp": "2026-11-12T16:16:55.288000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G0-1_Dry_Space_2/": {
+      "volts": 239.391357421875,
+      "amps": 4.000000596845126e-17,
+      "kw": 4.000000596845126e-20,
+      "timestamp": "2026-11-12T16:17:42.279000+05:30",
+      "stale": false
+    },
+    "Incomer.TR-1A_500kVA/": {
+      "volts": 239.12481689453125,
+      "amps": 109.30663299560547,
+      "kw": 50.84244921875,
+      "timestamp": "2026-11-12T16:17:09.801000+05:30",
+      "stale": false
+    },
+    "Production_Power.AG_Paint_High_Speed_Shutter3/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.PP-PK2-1_Moulding_Chiller/": {
+      "volts": 241.18580627441406,
+      "amps": 141.2034149169922,
+      "kw": 85.842375,
+      "timestamp": "2026-11-12T16:15:47.629000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-20_P_PA_WW/": {
+      "volts": 239.34422302246094,
+      "amps": 4.381471157073975,
+      "kw": 2.896479368209839,
+      "timestamp": "2026-11-12T16:17:31.499000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-4_P_AG_WW/": {
+      "volts": 239.23370361328125,
+      "amps": 9.644667625427246,
+      "kw": 6.089215278625488,
+      "timestamp": "2026-11-12T16:16:54.194000+05:30",
+      "stale": false
+    },
+    "Incomer.DG_Incomer_300kVA/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Lighting.SDB-15_L_AG_Paint/": {
+      "volts": 238.8373260498047,
+      "amps": 8.181915283203125,
+      "kw": 5.815396785736084,
+      "timestamp": "2026-11-12T16:16:06.282000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-13_1300T/": {
+      "volts": 240.9452362060547,
+      "amps": 23.75958824157715,
+      "kw": 11.589116210937501,
+      "timestamp": "2026-11-12T16:15:28.477000+05:30",
+      "stale": false
+    },
+    "Airconditioning.OQC_booth_AC/": {
+      "volts": 237.3000030517578,
+      "amps": 3.1700000762939453,
+      "kw": 0.5550000071525574,
+      "timestamp": "2026-11-12T16:16:51.335000+05:30",
+      "stale": false
+    },
+    "Production_Power.AG_Paint_High_Speed_Shutter2/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.PP-G1-3_AG_WW/": {
+      "volts": 238.6529541015625,
+      "amps": 0.48271775245666504,
+      "kw": 0.17824012756347657,
+      "timestamp": "2026-11-12T16:16:04.657000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PP_PK_Paint_Chiller/": {
+      "volts": 241.1206512451172,
+      "amps": 87.50962829589844,
+      "kw": 51.48159765625,
+      "timestamp": "2026-11-12T16:16:00.127000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-PK3-1_Mould_Maintenance/": {
+      "volts": 241.4893035888672,
+      "amps": 3.5656018257141113,
+      "kw": 1.78119921875,
+      "timestamp": "2026-11-12T16:16:41.041000+05:30",
+      "stale": false
+    },
+    "Other.PDB-2_South_LT_Room/": {
+      "volts": 239.1169891357422,
+      "amps": 44.98686218261719,
+      "kw": 27.402666015625,
+      "timestamp": "2026-11-12T16:17:08.629000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-19_L_PA_Paint/": {
+      "volts": 241.1272430419922,
+      "amps": 2.5976240634918213,
+      "kw": 1.8670101165771484,
+      "timestamp": "2026-11-12T16:16:04.954000+05:30",
+      "stale": false
+    },
+    "Other.PDB-15_QA_Room/": {
+      "volts": 241.72816467285156,
+      "amps": 12.496662139892578,
+      "kw": 8.69466796875,
+      "timestamp": "2026-11-12T16:17:00.646000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-11_L_Paint/": {
+      "volts": 241.1863555908203,
+      "amps": 5.132625102996826,
+      "kw": 3.662245273590088,
+      "timestamp": "2026-11-12T16:16:46.790000+05:30",
+      "stale": false
+    },
+    "Other.PDB-7_Forklift/": {
+      "volts": 239.55361938476562,
+      "amps": 3.99998504584961e-17,
+      "kw": 4.0000383162810585e-20,
+      "timestamp": "2026-11-12T16:17:34.718000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-5_L_Hazardous_W_H/": {
+      "volts": 186.10020446777344,
+      "amps": 0.6114097833633423,
+      "kw": 0.14346398413181305,
+      "timestamp": "2026-11-12T16:16:24.325000+05:30",
+      "stale": false
+    },
+    "Other.SDB-8A_P_Canteen/": {
+      "volts": 238.86614990234375,
+      "amps": 1.3914469480514526,
+      "kw": 0.6356390714645386,
+      "timestamp": "2026-11-12T16:15:27.977000+05:30",
+      "stale": false
+    },
+    "Other.SDB-10_Nuresy/": {
+      "volts": 239.09185791015625,
+      "amps": 2.119611978530884,
+      "kw": 1.5071239471435547,
+      "timestamp": "2026-11-12T16:17:02.224000+05:30",
+      "stale": false
+    },
+    "Paintshop.PP-PA_Paint_415V/": {
+      "volts": 241.8249053955078,
+      "amps": 1.2000000467046398e-16,
+      "kw": 1.2000000467046398e-19,
+      "timestamp": "2026-11-12T16:17:26.032000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-11_650T/": {
+      "volts": 241.3627471923828,
+      "amps": 32.21600341796875,
+      "kw": 16.2597802734375,
+      "timestamp": "2026-11-12T16:16:33.355000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PA_OQC_Inspection_Box_AC/": {
+      "volts": 239.89999389648438,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:13:54.105000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_PK_Paint_Shop/": {
+      "volts": 240.89999389648438,
+      "amps": 4.420000076293945,
+      "kw": 0.7870000004768372,
+      "timestamp": "2026-11-12T16:15:10.730000+05:30",
+      "stale": false
+    },
+    "Production_Power.AG_Paint_High_Speed_Shutter1/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Other.700_kVAR_Capacitor/": {
+      "volts": 241.2705078125,
+      "amps": 527.0787353515625,
+      "kw": 3.2000113300857375e-19,
+      "timestamp": "2026-11-12T16:15:10.527000+05:30",
+      "stale": false
+    },
+    "Compressor.Compressor_3/": {
+      "volts": 240.1326446533203,
+      "amps": 107.09807586669922,
+      "kw": 69.00883483886719,
+      "timestamp": "2026-11-12T16:17:24.688000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Air_Conditioning-2/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Production_Power.PP-PK2-15_Crush_Room/": {
+      "volts": 241.1453399658203,
+      "amps": 8.000001193690252e-17,
+      "kw": 8.000001193690252e-20,
+      "timestamp": "2026-11-12T16:15:55.143000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G1-2_380V_AG_WW/": {
+      "volts": 216.9229278564453,
+      "amps": 27.08074378967285,
+      "kw": 7.730025291442871,
+      "timestamp": "2026-11-12T16:16:20.607000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-2/": {
+      "volts": 239.0316162109375,
+      "amps": 0.7267324924468994,
+      "kw": 0.3803008198738098,
+      "timestamp": "2026-11-12T16:17:01.037000+05:30",
+      "stale": false
+    },
+    "Production_Power.PA_FA_12kVA_UPS/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Airconditioning.Seasoning_Room_AG_FA/": {
+      "volts": 239.0178680419922,
+      "amps": 14.959424018859863,
+      "kw": 10.0861904296875,
+      "timestamp": "2026-11-12T16:16:58.475000+05:30",
+      "stale": false
+    },
+    "Other.SDB-7_L-P_GH2/": {
+      "volts": 238.7823486328125,
+      "amps": 1.6213945150375366,
+      "kw": 0.9207819104194641,
+      "timestamp": "2026-11-12T16:15:28.883000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-16_230T/": {
+      "volts": 241.43878173828125,
+      "amps": 5.0000007460564077e-17,
+      "kw": 5.000000746056408e-20,
+      "timestamp": "2026-11-12T16:16:50.617000+05:30",
+      "stale": false
+    },
+    "Other.SDB_SWH/": {
+      "volts": 238.04844665527344,
+      "amps": 1.7109607458114624,
+      "kw": 1.1844509840011597,
+      "timestamp": "2026-11-12T16:15:33.132000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-4/": {
+      "volts": 238.3827667236328,
+      "amps": 2.684015989303589,
+      "kw": 1.6561249494552612,
+      "timestamp": "2026-11-12T16:14:57.858000+05:30",
+      "stale": false
+    },
+    "HT_Room.North_Utilities/": {
+      "volts": 6275.99267578125,
+      "amps": 40.20066833496094,
+      "kw": 748.9222412109375,
+      "timestamp": "2026-11-12T16:16:48.180000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-1/": {
+      "volts": 238.6013946533203,
+      "amps": 2.3080832958221436,
+      "kw": 1.4072248935699463,
+      "timestamp": "2026-11-12T16:15:46.598000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G3-2_415V_AG_Paint/": {
+      "volts": 238.6557159423828,
+      "amps": 2.7809255123138428,
+      "kw": 1.9069819335937501,
+      "timestamp": "2026-11-12T16:15:40.834000+05:30",
+      "stale": false
+    },
+    "Other.PDB_1_Part_RS_SWH/": {
+      "volts": 238.7000274658203,
+      "amps": 0.1805969625711441,
+      "kw": 0.12614263153076172,
+      "timestamp": "2026-11-12T16:15:26.352000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G3-1_380V_AG_Paint/": {
+      "volts": 217.02099609375,
+      "amps": 12.95830249786377,
+      "kw": 6.398708820343018,
+      "timestamp": "2026-11-12T16:16:35.495000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PDB-4_Canteen/": {
+      "volts": 238.8974609375,
+      "amps": 1.872100591659546,
+      "kw": 0.2349556427001953,
+      "timestamp": "2026-11-12T16:16:45.274000+05:30",
+      "stale": false
+    },
+    "Compressor.Compressor_2/": {
+      "volts": 239.16357421875,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:15:30.039000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-18_350T/": {
+      "volts": 241.25257873535156,
+      "amps": 21.76235580444336,
+      "kw": 13.3369130859375,
+      "timestamp": "2026-11-12T16:16:03.236000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Air_Conditioning-4/": {
+      "volts": null,
+      "amps": null,
+      "kw": null,
+      "timestamp": null,
+      "stale": true
+    },
+    "Airconditioning.Chiller_2/": {
+      "volts": 240.97747802734375,
+      "amps": 115.84661865234375,
+      "kw": 69.1767807006836,
+      "timestamp": "2026-11-12T16:17:15.737000+05:30",
+      "stale": false
+    },
+    "Dust_Collector.G0_146_Dust_Collector/": {
+      "volts": 238.95265197753906,
+      "amps": 39.43569564819336,
+      "kw": 16.93983984375,
+      "timestamp": "2026-11-12T16:16:59.928000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-12_850T/": {
+      "volts": 241.3251190185547,
+      "amps": 1.2000000467046398e-16,
+      "kw": 1.2000000467046398e-19,
+      "timestamp": "2026-11-12T16:16:12.843000+05:30",
+      "stale": false
+    },
+    "Other.SDB-2_P_SWH/": {
+      "volts": 238.83343505859375,
+      "amps": 2.1590335369110107,
+      "kw": 1.4150416851043701,
+      "timestamp": "2026-11-12T16:15:32.789000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-10_450T/": {
+      "volts": 241.0588836669922,
+      "amps": 35.57939529418945,
+      "kw": 16.83628515625,
+      "timestamp": "2026-11-12T16:15:12.636000+05:30",
+      "stale": false
+    },
+    "Paintshop.PP-PA_Paint_240V/": {
+      "volts": 241.2337188720703,
+      "amps": 0.6595941185951233,
+      "kw": 0.19804988098144533,
+      "timestamp": "2026-11-12T16:15:49.613000+05:30",
+      "stale": false
+    },
+    "Production_Power.CNC_Machine_AG_WW/": {
+      "volts": 216.4742889404297,
+      "amps": 3.9739742279052734,
+      "kw": 1.1419163942337036,
+      "timestamp": "2026-11-12T16:15:09.902000+05:30",
+      "stale": false
+    },
+    "Paintshop.PP-G4-118_AG_AHU_AG_Paint/": {
+      "volts": 241.06524658203125,
+      "amps": 160.36990356445312,
+      "kw": 107.3586875,
+      "timestamp": "2026-11-12T16:15:11.183000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-5/": {
+      "volts": 238.4754180908203,
+      "amps": 2.3799221515655518,
+      "kw": 1.460134744644165,
+      "timestamp": "2026-11-12T16:16:06.532000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-13AB_1300T/": {
+      "volts": 241.1385498046875,
+      "amps": 128.0589599609375,
+      "kw": 52.6095625,
+      "timestamp": "2026-11-12T16:15:51.347000+05:30",
+      "stale": false
+    },
+    "Airconditioning.AC_Seasoning_Room-3/": {
+      "volts": 238.53076171875,
+      "amps": 2.6143620014190674,
+      "kw": 1.581978678703308,
+      "timestamp": "2026-11-12T16:15:39.897000+05:30",
+      "stale": false
+    },
+    "Airconditioning.PDB-8_Nursery/": {
+      "volts": 239.1666717529297,
+      "amps": 3.2285478115081787,
+      "kw": 2.052150634765625,
+      "timestamp": "2026-11-12T16:17:06.942000+05:30",
+      "stale": false
+    },
+    "Production_Power.Butt_Welding_Machine/": {
+      "volts": 237.60000610351562,
+      "amps": 0.20000000298023224,
+      "kw": 0.024000000208616257,
+      "timestamp": "2026-11-12T16:15:12.371000+05:30",
+      "stale": false
+    },
+    "Other.350kVAR_Capacitor/": {
+      "volts": 239.1287841796875,
+      "amps": 175.03038024902344,
+      "kw": 1.6000001063891524e-19,
+      "timestamp": "2026-11-12T16:17:03.958000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-17_280T/": {
+      "volts": 241.4532012939453,
+      "amps": 0.8129949569702148,
+      "kw": 0.41728872060775757,
+      "timestamp": "2026-11-12T16:16:18.061000+05:30",
+      "stale": false
+    },
+    "Other.PDB-6_Water_Supply_PUMP_Room/": {
+      "volts": 238.72621154785156,
+      "amps": 1.977292776107788,
+      "kw": 1.222057861328125,
+      "timestamp": "2026-11-12T16:16:14.608000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-PA1-Wood_Work/": {
+      "volts": 239.43017578125,
+      "amps": 0.9040672183036804,
+      "kw": 0.20628072321414948,
+      "timestamp": "2026-11-12T16:16:49.617000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-14_P_Moulding/": {
+      "volts": 238.3026885986328,
+      "amps": 4.4232258796691895,
+      "kw": 2.836681842803955,
+      "timestamp": "2026-11-12T16:16:11.671000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G1-3_240V_AG_WW/": {
+      "volts": 238.97621154785156,
+      "amps": 9.172022819519043,
+      "kw": 5.95619384765625,
+      "timestamp": "2026-11-12T16:16:46.665000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Chiller_1/": {
+      "volts": 240.19679260253906,
+      "amps": 15.52258014678955,
+      "kw": 9.655851364135742,
+      "timestamp": "2026-11-12T16:15:06.059000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-PK1_PK_Assembly/": {
+      "volts": 241.22438049316406,
+      "amps": 2.0000001329864406e-17,
+      "kw": 2.0000001329864406e-20,
+      "timestamp": "2026-11-12T16:15:56.112000+05:30",
+      "stale": false
+    },
+    "Production_Power.SDB-16_P_AG_Paint/": {
+      "volts": 238.8729248046875,
+      "amps": 4.659079074859619,
+      "kw": 3.084357500076294,
+      "timestamp": "2026-11-12T16:15:15.089000+05:30",
+      "stale": false
+    },
+    "Lighting.SDB-20_L_PA_WW/": {
+      "volts": 238.622802734375,
+      "amps": 3.777733087539673,
+      "kw": 2.6958632469177246,
+      "timestamp": "2026-11-12T16:15:01.701000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-20AB_1600T/": {
+      "volts": 241.4242706298828,
+      "amps": 15.35472297668457,
+      "kw": 1.909529296875,
+      "timestamp": "2026-11-12T16:16:09.844000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G1-1_380V_AG_WW/": {
+      "volts": 217.13731384277344,
+      "amps": 51.59882736206055,
+      "kw": 21.405853271484375,
+      "timestamp": "2026-11-12T16:17:30.109000+05:30",
+      "stale": false
+    },
+    "Molding.PP-PK2-19_350T/": {
+      "volts": 241.5457763671875,
+      "amps": 4.378289699554443,
+      "kw": 2.648144483566284,
+      "timestamp": "2026-11-12T16:15:33.398000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G2-2_240V_AG_FA/": {
+      "volts": 239.2290496826172,
+      "amps": 21.71455192565918,
+      "kw": 15.34580078125,
+      "timestamp": "2026-11-12T16:16:55.616000+05:30",
+      "stale": false
+    },
+    "Production_Power.PP-G2-1_380V_AG_FA/": {
+      "volts": 216.79261779785156,
+      "amps": 29.342134475708008,
+      "kw": 15.782694816589355,
+      "timestamp": "2026-11-12T16:16:39.010000+05:30",
+      "stale": false
+    },
+    "Airconditioning.Chiller/": {
+      "volts": 239.66412353515625,
+      "amps": 0,
+      "kw": 0,
+      "timestamp": "2026-11-12T16:17:40.560000+05:30",
+      "stale": false
+    }
+  }
+}

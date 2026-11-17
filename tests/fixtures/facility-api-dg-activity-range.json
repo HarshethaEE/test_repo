@@ -1,0 +1,26 @@
+{
+  "start": "2026-10-14T00:00:00",
+  "end": "2026-11-12T23:59:59",
+  "totalRuntimeMinutes": 9,
+  "totalStarts": 3,
+  "daily": [
+    {
+      "date": "2026-10-21",
+      "runtimeMinutes": 4,
+      "starts": 1,
+      "energyKwh": 11.7
+    },
+    {
+      "date": "2026-10-22",
+      "runtimeMinutes": 3,
+      "starts": 1,
+      "energyKwh": 38.4
+    },
+    {
+      "date": "2026-10-25",
+      "runtimeMinutes": 2,
+      "starts": 1,
+      "energyKwh": 181.8
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "device": "Compressor",
+  "params": {
+    "voltageAvg": 239.5731201171875,
+    "voltageA": 238.14085388183594,
+    "voltageB": 239.58155822753906,
+    "voltageC": 240.9969482421875,
+    "currentAvg": 143.7965087890625,
+    "currentA": 142.59555053710938,
+    "currentB": 144.1018829345703,
+    "currentC": 144.6920928955078,
+    "powerFactorTotal": 0.919704020023346,
+    "realPowerTotal": 95.05349731445312,
+    "apparentPowerTotal": null,
+    "reactivePowerTotal": null,
+    "frequency": 50.06764221191406
+  },
+  "timestamp": "2026-11-12T16:17:18.252000+05:30",
+  "stale": false
+}
